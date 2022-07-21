@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Joaquin Garcia  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Joaquin Garcia  👨‍💻 </h1>
 
 <h3 align='center'>
   Web Developer 
